@@ -4,15 +4,14 @@ Hey there, I'm Tatiana! 👋
 </h3>
 
 <h4 align = center>
-💻 Front-End Developer |  🌸 Washington, D.C.
+💻 Software Developer |  🌸 Baltimore - Washington Metropolitan Area
 </h4> <hr>
 
 - I’m currently learning React 🌱
 - Javascript | HTML | CSS/SCSS | Node
 
 
-#### Visit my [Website](https://tmgry.com/)
-#### Let's connect on [LinkedIn](https://www.linkedin.com/in/tmeg/)
+
 
 <!---
 tmgry/tmgry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
