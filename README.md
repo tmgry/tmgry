@@ -4,11 +4,11 @@ Hey there, I'm Tatiana! 👋
 </h3>
 
 <h4 align = center>
-💻 Software Developer |  🌸 Baltimore - Washington Metropolitan Area
+💻 Software Engineer |  🌸 Baltimore - Washington Metropolitan Area
 </h4> <hr>
 
-- I’m currently learning React 🌱
-- Javascript | HTML | CSS/SCSS | Node
+- I’m currently learning Java 🌱
+- Python | Javascript | HTML | CSS/SCSS | Node
 
 
 
