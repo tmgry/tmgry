@@ -8,7 +8,7 @@ Hey there, I'm Tatiana! 👋
 </h4> <hr>
 
 - I’m currently learning Java 🌱
-- Python | Javascript | HTML | CSS/SCSS | Node
+- Python | Javascript | HTML | CSS/SCSS 
 
 
 
